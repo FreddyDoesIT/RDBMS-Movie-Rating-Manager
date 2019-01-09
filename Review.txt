@@ -1,0 +1,16 @@
+1,1,2018-01-01,5,Very Good(√),1
+
+1,1,2018-01-01,4,Good+invalid,2
+1,1,2018-01-02,3,soso+invalid,3
+1,2,2018-01-10,4,not bad+invalid,4
+1,2,2018-01-09,3,not too bad+invalid,5
+10,1,2018-09-10,3,excellent+invalid,6
+10,4,2018-09-09,4,bravo+invalid,7
+
+2,1,2018-01-05,5,great(√),8
+3,2,2018-05-07,5,nice(√),9
+4,10,2018-07-07,5,stunning(√),10
+
+6,5,2018-08-12,5,amazing(√),11
+10,1,2018-01-01,4,Finally I went to the cinema to watch it(√).,12
+CustomerID MovieID ReviewDate Rating Review ReviewID
