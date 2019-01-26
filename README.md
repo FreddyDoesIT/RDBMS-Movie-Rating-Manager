@@ -36,7 +36,7 @@ In each table, there are both primary keys and foreign keys serving as constrain
     
     **Below please refer to the schema to find more specific design information.**
 
-#### Schema for iRate Database![image](https://github.ccs.neu.edu/2018FACS5200SV/project-1-lxheqiao/blob/master/ER%20Diagram.png)
+#### Schema for iRate Database![image](https://github.com/FreddyDoesIT/RDBMS-Movie-Rating-Manager/blob/master/ER%20Diagram.png)
 
 ##### Customer
 * CustomerID: primary key, an auto incremented integer
