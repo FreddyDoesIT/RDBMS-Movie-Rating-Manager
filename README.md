@@ -7,7 +7,7 @@ iRate is a social media application that encourages theater customers to rate a 
  Theater customers after watching a movie can write a short review for people who wants information about it. Other customers can vote one review of a particular movie as "helpful" each day. The writer of the top-rated review of a movie written 3 days earlier receives a free movie ticket, and "like" is closed for all reviews of the movie written 3 days ago. Someone who voted one or more movie reviews as "helpful" on a given day will be chosen to receive a free concession item. This database provides all features of this application.
  
 #### Team 
-* **Freddy Lyu** 
+* **[Freddy Lyu](https://freddydoesit.github.io/freddy/)** 
 * **Joe He** 
 
 #### Technologies Built With
